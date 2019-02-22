@@ -1,0 +1,19 @@
+# Monte-Carlo
+Black Jack Project with Udacity
+# Content: Monte-Carlo Method RL
+## Project: Black Jack with Udacity
+
+### Description
+Lesson from Udacity's Machine Learning Engineer Nanodegree
+
+### Code
+Provided by Udacity's instructors
+
+## Authors
+
+* **Carlos Mertens** - *Student*
+* **Udacity** - *Machine Learning Engineer Nanodegree Instructors*
+
+## Acknowledgments
+
+* Udacity, Inc.
