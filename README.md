@@ -1,5 +1,3 @@
-# Monte-Carlo
-Black Jack Project with Udacity
 # Content: Monte-Carlo Method RL
 ## Project: Black Jack with Udacity
 
